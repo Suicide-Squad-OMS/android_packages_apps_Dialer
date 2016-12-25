@@ -149,4 +149,7 @@
 
     <!-- Colors for incoming and outgoing calls in the call statistics -->
     <color name="call_stats_bar_background">#88888888</color>
+	
+	<color name="promo_card_header_text_color">@color/background_dialer_white</color>
+    <color name="promo_card_details_text_color">@color/background_dialer_white</color>
 </resources>
